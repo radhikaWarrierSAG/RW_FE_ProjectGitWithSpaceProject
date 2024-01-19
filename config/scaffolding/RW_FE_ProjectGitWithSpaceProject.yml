@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/radhikaWarrierSAG/RW_FE_ProjectGitWithSpaceProject
   gitUsername: radhikaWarrierSAG
   gitBranch: main
+services:
+- serviceName: project.rw_fe_projectgitwithspace.integrations:CRTdebug1RW1
+  packages:
+  - name: RW_FE_ProjectGitWithSpaceProject
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.738

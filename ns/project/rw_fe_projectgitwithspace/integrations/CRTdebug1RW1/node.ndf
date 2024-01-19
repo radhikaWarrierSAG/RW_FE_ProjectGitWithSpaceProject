@@ -45,14 +45,13 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">rwa</value>
-    <value name="createdDate">1705674995292</value>
-    <value name="lastModifiedDate">1705674995292</value>
+    <value name="lastModifiedBy">rwa</value>
+    <value name="lastModifiedDate">1705675003287</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">7ae3c1e9b0234e289e2fc64f8ecb57b6</value>
+      <value name="id">f5aa8b2354a5450e844349039d86a037</value>
       <value name="group">default</value>
-      <value name="name">Cloud Runtime</value>
-      <value name="executionPlaneType">cloud</value>
+      <value name="name">FE_RW_19_002New</value>
+      <value name="executionPlaneType">onprem</value>
     </record>
     <value name="displayName">CRTdebug1RW1</value>
     <value name="description"></value>
