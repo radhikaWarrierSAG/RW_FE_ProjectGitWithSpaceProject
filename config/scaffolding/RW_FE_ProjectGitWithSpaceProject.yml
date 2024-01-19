@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: RW_FE_ProjectGitWithSpaceProject
+  gitServerName: rw with new space
+  gitUrl: https://github.com/radhikaWarrierSAG/RW_FE_ProjectGitWithSpaceProject
+  gitUsername: radhikaWarrierSAG
+  gitBranch: main
