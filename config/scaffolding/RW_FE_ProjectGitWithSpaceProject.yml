@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/radhikaWarrierSAG/RW_FE_ProjectGitWithSpaceProject
   gitUsername: radhikaWarrierSAG
   gitBranch: main
+- name: OnPremiseISPkg
+  gitServerName: rw with new space
+  gitUrl: https://github.com/radhikaWarrierSAG
+  gitUsername: radhikaWarrierSAG
+  gitBranch: main
 services:
 - serviceName: project.rw_fe_projectgitwithspace.integrations:CRTdebug1RW1
   packages:
