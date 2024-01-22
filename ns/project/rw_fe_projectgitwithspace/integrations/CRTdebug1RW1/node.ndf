@@ -46,12 +46,12 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">rwa</value>
-    <value name="lastModifiedDate">1705907800549</value>
+    <value name="lastModifiedDate">1705907842427</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">dd1df6c7e1f24e32a2df8f183b5bf5d9</value>
+      <value name="id">7ae3c1e9b0234e289e2fc64f8ecb57b6</value>
       <value name="group">default</value>
-      <value name="name">FE_RW_22Jan1</value>
-      <value name="executionPlaneType">onprem</value>
+      <value name="name">Cloud Runtime</value>
+      <value name="executionPlaneType">cloud</value>
     </record>
     <value name="displayName">CRTdebug1RW1</value>
     <value name="description"></value>

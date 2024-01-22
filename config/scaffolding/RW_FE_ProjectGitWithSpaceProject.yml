@@ -17,7 +17,9 @@ services:
   packages:
   - name: RW_FE_ProjectGitWithSpaceProject
     version: "1.0"
+  - name: OnPremiseISPkg
+    version: "1.0"
 - serviceName: pub.flow:debugLog
   packages:
   - name: WmPublic
-    version: 11.0.0.0.738
+    version: 11.0.0.0.741
